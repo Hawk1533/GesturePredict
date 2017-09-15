@@ -10,5 +10,5 @@ thinkDSP - processing spectres of EKG
 skicit - machine learning
 
 # Result: 
-The project is not finished, but some good results are already achieved. Average accuracy 80% for train set
+The project is not finished, but some good results are already achieved. Average accuracy 80% for train set!
 
